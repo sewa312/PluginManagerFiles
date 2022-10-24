@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Plugins>
-  <Plugin Id="2534" Name="First Plugin" Version="1.0" DownloadLink="http://" />
+  <Plugin Id="2534" Name="First Plugin" Version="1.0" DownloadLink="https://download.microsoft.com/download/4/5/9/4592da66-7d2a-400a-810c-bfdfe6ba4009/fsx_sp2_RUS.msi" />
   <Plugin Id="2386" Name="Second Plugin" Version="1.3" DownloadLink="http://" />
   <Plugin Id="3627" Name="Third Plugin" Version="0.9" DownloadLink="http://" />
   <Plugin Id="8346" Name="Fourth Plugin" Version="2.2" DownloadLink="http://" />
